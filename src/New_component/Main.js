@@ -8,6 +8,9 @@ import i4 from './4.svg';
 import i5 from './5.svg';
 import i6 from './6.svg';
 import logo from './logo.png'
+import left from './lefts.svg'
+import right from './rights.svg'
+
 export default class Main extends Component {
     render() {
         return (
@@ -72,6 +75,10 @@ export default class Main extends Component {
                             </h2>
                             </div>
                         </div>
+                    </div>
+                    <div className="arrows">
+                        <img src={left} error="error" />
+                        <img src={right} error="error" />
                     </div>
             </div>
     

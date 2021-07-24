@@ -115,3 +115,17 @@
     color:#5589D6;
 
 }
+.arrows{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    position: relative;
+    top:-62.5em;
+    width:90%;
+    margin-left: 4.5em;
+}
+.arrows img:hover{
+    opacity: 50%;
+    transition: 0.2s ease;
+    cursor: pointer;
+}
