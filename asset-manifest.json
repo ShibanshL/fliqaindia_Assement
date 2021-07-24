@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/fliqaindia_Assement/static/css/main.fc8be651.chunk.css",
+    "main.js": "/fliqaindia_Assement/static/js/main.30c8bfc7.chunk.js",
+    "main.js.map": "/fliqaindia_Assement/static/js/main.30c8bfc7.chunk.js.map",
+    "runtime-main.js": "/fliqaindia_Assement/static/js/runtime-main.f99e7413.js",
+    "runtime-main.js.map": "/fliqaindia_Assement/static/js/runtime-main.f99e7413.js.map",
+    "static/js/2.4498f96c.chunk.js": "/fliqaindia_Assement/static/js/2.4498f96c.chunk.js",
+    "static/js/2.4498f96c.chunk.js.map": "/fliqaindia_Assement/static/js/2.4498f96c.chunk.js.map",
+    "index.html": "/fliqaindia_Assement/index.html",
+    "static/css/main.fc8be651.chunk.css.map": "/fliqaindia_Assement/static/css/main.fc8be651.chunk.css.map",
+    "static/js/2.4498f96c.chunk.js.LICENSE.txt": "/fliqaindia_Assement/static/js/2.4498f96c.chunk.js.LICENSE.txt",
+    "static/media/1.dc1af0da.svg": "/fliqaindia_Assement/static/media/1.dc1af0da.svg",
+    "static/media/2.e12d4116.svg": "/fliqaindia_Assement/static/media/2.e12d4116.svg",
+    "static/media/3.393c8cc9.svg": "/fliqaindia_Assement/static/media/3.393c8cc9.svg",
+    "static/media/4.48f81c21.svg": "/fliqaindia_Assement/static/media/4.48f81c21.svg",
+    "static/media/5.73fcf913.svg": "/fliqaindia_Assement/static/media/5.73fcf913.svg",
+    "static/media/6.3a704846.svg": "/fliqaindia_Assement/static/media/6.3a704846.svg",
+    "static/media/style.css": "/fliqaindia_Assement/static/media/bg.ce026387.png",
+    "static/media/lefts.71ca95d7.svg": "/fliqaindia_Assement/static/media/lefts.71ca95d7.svg",
+    "static/media/style1.css": "/fliqaindia_Assement/static/media/nlogo.42cb3412.png",
+    "static/media/rights.b5acf2fb.svg": "/fliqaindia_Assement/static/media/rights.b5acf2fb.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f99e7413.js",
+    "static/js/2.4498f96c.chunk.js",
+    "static/css/main.fc8be651.chunk.css",
+    "static/js/main.30c8bfc7.chunk.js"
+  ]
+}
