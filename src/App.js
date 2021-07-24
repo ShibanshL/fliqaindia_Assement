@@ -1,17 +1,17 @@
 import './App.css';
-import Main from './New-component/Main'
-import { HashRouter, Switch, Route } from 'react-router-dom';
-import Apirequest3 from './New-component/Apirequest3';
+import Main from './New_component/Main';
+import New from './Page2/New';
+import { BrowserRouter, Switch, Route } from 'react-router-dom';
 
 function App() {
   return (
     <div className="App">
-      <HashRouter>
+      <BrowserRouter>
       <Switch>
               <Route exact path="/" component={Main}/>
-              <Route exact path="/API/:final" component={Apirequest3}/>
+              <Route exact path="/New" component={New}/>
       </Switch>
-      </HashRouter>
+      </BrowserRouter>
     </div>
   );
 }

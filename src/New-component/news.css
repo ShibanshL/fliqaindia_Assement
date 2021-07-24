@@ -1,9 +1,0 @@
-.News h1{
-    font-size: 30px;
-}
-@media screen and (max-width:376px){
-    .News h1{ 
-        margin-top: -2em;
-        font-size: 20px;
-    }
-}
